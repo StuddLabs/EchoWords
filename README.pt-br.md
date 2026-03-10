@@ -2,6 +2,8 @@
 
 # EchoWords 🔊
 
+![EchoWords Preview](./src/imgs/EchoWords.png)
+
 EchoWords é uma aplicação web leve desenvolvida para ajudar estudantes de inglês a aprimorar sua **compreensão auditiva (listening)** por meio de exercícios interativos com áudio.
 
 A plataforma apresenta diálogos em inglês onde algumas palavras são removidas do texto. O estudante deve ouvir o áudio com atenção e preencher as palavras faltantes com base no que foi compreendido.
