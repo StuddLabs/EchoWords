@@ -2,6 +2,8 @@
 
 # EchoWords 🔊
 
+![EchoWords Preview](./src/imgs/EchoWords.png)
+
 EchoWords is a lightweight web application designed to help English learners improve their **listening comprehension** through interactive audio exercises.
 
 The platform presents dialogues where some words are intentionally removed from the transcript. Learners must carefully listen to the audio and fill in the missing words based on what they hear.
